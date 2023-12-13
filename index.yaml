@@ -3,12 +3,12 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-13T18:25:34.665931+08:00"
+    created: "2023-12-13T19:59:19.64277+08:00"
     description: A Helm chart for Kubernetes
-    digest: f3200f37a6f8b56fd2788266dda701267e758162f3c9876aa6251dde18e4c80f
+    digest: 19c6d544e2fa5dc8668f12bcf170c230da0a1c19148004b6f289a8d2efd5ce78
     name: mychart
     type: application
     urls:
     - mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-13T18:25:34.664913+08:00"
+generated: "2023-12-13T19:59:19.640768+08:00"
