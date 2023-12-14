@@ -3,7 +3,7 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-13T20:16:02.19255+08:00"
+    created: "2023-12-14T10:24:14.183325+08:00"
     description: A Helm chart for Kubernetes
     digest: 93d72ad8814c9eaf04b445791eca3af40ef2b14062bc2860807a79bf6783a31a
     name: mychart
@@ -13,7 +13,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-13T20:16:02.192423+08:00"
+    created: "2023-12-14T10:24:14.183045+08:00"
     description: A Helm chart for Kubernetes
     digest: a7af600e1889e1a416b48f156b121e5aa00fa36430d18d7dfb2e3c02042747a6
     name: mychart
@@ -23,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-13T20:16:02.192028+08:00"
+    created: "2023-12-14T10:24:14.182701+08:00"
     description: A Helm chart for Kubernetes
     digest: 5e27cbe008d5c95bce045da6113c17c7a2c9b9e1e0479878c157286243fe7d3d
     name: mychart
@@ -31,4 +31,15 @@ entries:
     urls:
     - mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-13T20:16:02.191256+08:00"
+  springboot-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-14T10:24:14.183762+08:00"
+    description: A Helm chart for Kubernetes
+    digest: f73c14395fbb3b2f1fa992e102bab9db13cf57d17a5e0fd4fa8a8a3ee0784772
+    name: springboot-chart
+    type: application
+    urls:
+    - springboot-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-14T10:24:14.181972+08:00"
