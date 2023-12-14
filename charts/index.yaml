@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-14T10:34:40.392895+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 79495310f0f231fa3cf2a3bae39a3c7885523bb1a98b912e6f5741a793612dbd
+    name: mychart
+    type: application
+    urls:
+    - mychart-0.3.0.tgz
+    version: 0.3.0
+  springboot-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-14T10:34:40.393287+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 09300b67bb5ff778cf8bd7925ac9f7112f01c9cf841f64e6ea41ef4c9553194e
+    name: springboot-chart
+    type: application
+    urls:
+    - springboot-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-14T10:34:40.391499+08:00"
