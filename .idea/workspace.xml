@@ -64,6 +64,13 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-f644763e9732-1a501b52" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,6 +85,8 @@
       <workItem from="1717144128686" duration="2323000" />
       <workItem from="1718268820912" duration="2724000" />
       <workItem from="1719816542283" duration="9000" />
+      <workItem from="1726207725883" duration="1117000" />
+      <workItem from="1726208847645" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
